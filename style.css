@@ -1,0 +1,16 @@
+fieldset
+{
+    border-radius: 2em;
+    text-align: justify ;
+}
+body
+{
+    background-image: url(https://www.studentnewsdaily.com/wp-content/uploads/2017/09/fnq-quiz-blue.jpg);
+color:#85144b;
+font-weight: bolder;
+}
+.btn1{
+    width: 100px; 
+    margin: 0 auto; 
+    display: block;
+}
